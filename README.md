@@ -2,7 +2,7 @@
 
 🚗 YOLOv8 va OpenCV asosida qurilgan piyodalar yo‘lidan o‘tishdagi qoidabuzarliklarni aniqlovchi avtomatik tizim.
 
-![Logo](logo.png)
+![Logo](/logo/logo.png)
 
 ---
 
@@ -21,11 +21,11 @@
 
 ### Qoidabuzarlik holati:
 
-![Example](assets/example_violation.png)
+![Example](/output_image/violation_detected_20250406-123732.png)
 
 ### Video lavha:
 
-https://yourusername.github.io/PiyodalarQoriqchisi/assets/example_violation_clip.mp4
+https://github.com/muxammadali74/PiyodalarQo-riqchisi/blob/main/output_video/output_Trim.mp4
 
 ---
 
@@ -66,8 +66,8 @@ Ushbu loyiha **MIT litsenziyasi** asosida tarqatiladi.
 
 ## 👤 Muallif
 
-- **Ismingiz** — Dasturchi / Talaba / Sun’iy intellekt tadqiqotchisi
-- Telegram: [@usernameingiz](https://t.me/usernameingiz)
+- **Ochilov Muxammad Ali** — Dasturchi / Talaba / Sun’iy intellekt tadqiqotchisi
+- Telegram: [@ali7432](https://t.me/ali7432)
 
 ---
 
