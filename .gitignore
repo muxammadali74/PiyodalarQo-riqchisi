@@ -1,0 +1,8 @@
+.venv
+VID_20241224_114514.mp4
+VID_20241224_115240.mp4
+VID_20241231_153209.mp4
+haar
+yolov8_weights.pt
+yolov8n.engine
+yolov8n.onnx
